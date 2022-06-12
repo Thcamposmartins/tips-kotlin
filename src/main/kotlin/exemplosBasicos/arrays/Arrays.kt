@@ -1,4 +1,4 @@
-package exemplosBasicos
+package exemplosBasicos.arrays
 
 import java.math.BigDecimal
 import java.math.RoundingMode
